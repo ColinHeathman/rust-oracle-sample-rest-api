@@ -1,0 +1,7 @@
+[package]
+name = "rust-oracle"
+version = "0.1.0"
+authors = ["Colin Heathman <Colin.Heathman@unbc.ca>"]
+
+[dependencies]
+oracle = { version = "0.1.0", features = ["chrono"] }
